@@ -1,1 +1,3 @@
-# word_searhing
+# word_searching
+
+Tests different word searching algorithms of Word Search 78
